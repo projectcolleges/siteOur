@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ffdffsdfngdadas
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadas
 asddddddddddddddddddddddddddddddddddddddddddddddd
+=======
+sdasdasasasasasasasasasasasasasasasasasasasas
+dasddddddddddddddddddddddddddddddddddddddd
+dasasasasasasasasasasasasasasasasasasas
+dasdasdsdasdas
+dasdasdas
+>>>>>>> second
